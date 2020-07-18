@@ -15,7 +15,7 @@ As condições são:
 
 5 - se saiu o numero 1 ou 15 e segue as regras:
 
-    - Quando a bola número 1 é sorteada, geralmente ela vem acompanha dos números 2, 3, e 4.
-    
-    - E quando o 15 for sorteado é praxe ser acompanhado pelos números 22, 23, 24 e 25.
+-> Quando a bola número 1 é sorteada, geralmente ela vem acompanha dos números 2, 3, e 4.
+
+-> E quando o 15 for sorteado é praxe ser acompanhado pelos números 22, 23, 24 e 25.
 
